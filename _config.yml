@@ -1,0 +1,147 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Host A Thing
+description: >- # this means to ignore newlines until "baseurl:"
+  Host A Thing
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://hostathing.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-redirect-from
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+logo: "/assets/images/logo.png"
+include: ["_pages"]
+exclude: [README.md]
+words_per_minute: 250
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: true
+      tags: true
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://hostathing.com'
+  relativeLinks: 'http://hostathing.com/links.jsonp'
+  media: 'assets/posts'
+  ignore:
+    - README.md
+    - /_data
+    - /.devcontainer
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "type"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Announcements"
+              value: "announcements"
+      - name: "author"
+        field:
+          element: "hidden"
+          value: CURRENT_USER
+    # _pages:
+    #   - name: "type"
+    #     field:
+    #       element: "hidden"
+    #       value: "page"
+    #   - name: "permalink"
+    #     field:
+    #       element: "text"
+    #       label: "Permalink"
+    #       value: ""
+  users:
+    - login: "dy1io"
+      user: "dy1io"
+    - login: "jackhigh86"
+      user: "Jackhigh"
+footer:
+  links:
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://hostathing.com/discord"
+    - label: "System Status"
+      icon: "fas fa-fw fa-chart-area"
+      url: "https://status.hostathing.com"
+    - label: "Panel"
+      icon: "fas fa-fw fa-server"
+      url: "https://panel.hostathing.com"
+    - label: "Terms of Service"
+      icon: "fas fa-fw fa-file-alt"
+      url: "https://hostathing.com/terms"
+    - label: "Privacy Policy"
+      icon: "fas fa-fw fa-file-alt"
+      url: "https://hostathing.com/privacy"
+atom_feed:
+  hide: true
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -1,5 +1,6 @@
-# hostathing.com
-Website for hostathing.com
+# Host A Thing
+
+Host A Thing public website.
 
 ## Developer
 

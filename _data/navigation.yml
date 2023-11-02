@@ -1,0 +1,7 @@
+main:
+  - title: About
+    url: "#About"
+  - title: Docs
+    url: "/docs/"
+  - title: Login
+    url: "https://panel.hostathing.com/"
