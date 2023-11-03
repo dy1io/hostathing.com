@@ -2,7 +2,7 @@
 layout: splash_home
 permalink: /
 title: Host A Thing
-excerpt: "Host your thing!"
+excerpt: "Community hosting reimagined..."
 header:
   #overlay_color: "#f21368"
   overlay_filter: "0.25"
