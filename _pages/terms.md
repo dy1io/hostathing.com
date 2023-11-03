@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+title: Terms & Privacy Policy
 permalink: /terms/
 ---
 
