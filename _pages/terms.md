@@ -1,6 +1,9 @@
 ---
 title: Terms & Privacy Policy
 permalink: /terms/
+toc: true
+toc_label: "Terms & Privacy Policy"
+toc_icon: fas fa-fw fa-gavel
 ---
 
 ## Terms of Service
