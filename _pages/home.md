@@ -9,7 +9,7 @@ header:
   show_overlay_excerpt: true
   actions:
     - label: Join our Discord
-      url: "/join/"
+      url: "/discord/"
 ---
 
 ## About
