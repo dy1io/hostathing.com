@@ -60,7 +60,7 @@ You agree that while using our services, you will not engage in any activities t
 
 #### 4.4. Avatar Content
 
-Avatars uploaded by users should not contain inappropriate or offensive content or personal information.
+Avatars uploaded by users should not contain inappropriate or offensive content or personal information and must not violate any applicable laws, infringe on copyrights, trademarks, or other intellectual property rights, or be otherwise objectionable.
 
 ### 5. Node Hosting Security
 
