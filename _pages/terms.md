@@ -94,7 +94,11 @@ When you register for an account, we collect the following information:
 - Discord user ID (optional)
 - First and last name
 
-#### 1.2. Server Data
+#### 1.2. Public IP Address
+
+We collect your public IP address for logging and auditing purposes. This information is used to enhance the security and performance of our services.
+
+#### 1.3. Server Data
 
 We do not knowingly collect or store any personally identifiable information beyond the data mentioned above. Users are explicitly prohibited from uploading any private information to their server(s).
 
