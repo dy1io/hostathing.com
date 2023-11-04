@@ -98,7 +98,11 @@ When you register for an account, we collect the following information:
 
 We collect your public IP address for logging and auditing purposes. This information is used to enhance the security and performance of our services.
 
-#### 1.3. Server Data
+#### 1.3. User Avatars
+
+Users have the option to upload avatars. The avatars are collected for the purpose of customizing your account profile and enhancing the user experience.
+
+#### 1.4. Server Data
 
 We do not knowingly collect or store any personally identifiable information beyond the data mentioned above. Users are explicitly prohibited from uploading any private information to their server(s).
 
@@ -111,6 +115,14 @@ We use the information you provide during registration to create and manage your
 #### 2.2. Discord User ID
 
 If you choose to provide your Discord user ID, it may be used to facilitate Single Sign-On (SSO) through Discord, enhancing your experience and facilitating communication and coordination within your gaming community. It is an optional field, and you can choose not to provide it.
+
+#### 2.3. Public IP Addresses
+
+We collect your public IP addresses for logging and auditing purposes. This information is used to enhance the security and performance of our services. It is important to note that public IP addresses do not contain personally identifiable information.
+
+#### 2.4. User Avatars
+
+User avatars are used to customize your account profile and enhance your user experience on our platform.
 
 ### 3. Sharing of Information
 
