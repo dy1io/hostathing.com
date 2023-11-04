@@ -8,18 +8,128 @@ toc_icon: fas fa-fw fa-gavel
 
 ## Terms of Service
 
-**UNDER DEVELOPMENT**
+Effective Date: November 3, 2023
 
-Until these terms are complete, you SHALL NOT register an account for or use the Host A Thing Panel without first gaining special authorization from a representative of Host A Thing. 
+Welcome to Host A Thing, a free video game server hosting service dedicated to supporting approved and partnered gaming communities. These Terms of Service outline the rules and guidelines for using our services. By using our services, you agree to comply with and be bound by these terms. If you do not agree with any part of these terms, please do not use our services.
+
+### 1. Acceptance of Terms
+
+By using our services, you acknowledge and agree to these Terms of Service. You represent that you are of legal age or have the necessary legal consent to use our services. We reserve the right to modify or update these terms at any time, and it is your responsibility to review them periodically. Continued use of our services after any changes indicates your acceptance of those changes.
+
+### 2. Account Registration
+
+#### 2.1. Eligibility
+
+You must be a member of an approved and partnered gaming community to request a server from us. Approval criteria and eligibility requirements are determined by Host A Thing and may be subject to change.
+
+#### 2.2. Account Information
+
+You must provide accurate and complete information during the registration process. You are solely responsible for maintaining the confidentiality of your account information and password. You are also responsible for all activities that occur under your account.
+
+### 3. Services Offered
+
+#### 3.1. Server Hosting
+
+Host A Thing offers free video game server hosting services for approved and partnered gaming communities. The availability and features of these services may vary and are subject to change.
+
+#### 3.2. Community Guidelines
+
+You must adhere to the community guidelines and rules established by your gaming community when using our services.
+
+#### 3.3. Server Hosting Options
+
+Users may host game servers, websites, Discord bots, and other related services on our platform, provided that such usage does not violate copyright, trademark, or any applicable laws.
+
+#### 3.4. Node Hosting
+
+Communities may choose to host their nodes using their hardware or pay us to host one for them. Exclusive access to their node or game hosting on their node is not guaranteed, although we will make a best effort to do so if requested.
+
+### 4. Content and Conduct
+
+#### 4.1. Content Responsibility
+
+You are solely responsible for any content you upload, transmit, or display on your server. This content must not violate any applicable laws, infringe on copyrights, trademarks, or other intellectual property rights, or be otherwise objectionable.
+
+#### 4.2. Prohibited Activities
+
+You may not engage in any activities that violate our guidelines, including but not limited to hacking, cheating, or other disruptive behavior.
+
+#### 4.3. Compliance with Laws
+
+You agree that while using our services, you will not engage in any activities that are illegal under local, state, national, or international law. We do not condone or support any unlawful activities and reserve the right to report any such activities to the appropriate authorities.
+
+### 5. Node Hosting Security
+
+If you are hosting a node, it is solely your responsibility to ensure the security of that node and your network.
+
+### 6. Termination of Services
+
+We reserve the right to terminate, suspend, or restrict your access to our services at our discretion, without notice, for any reason, including but not limited to a violation of these terms or any violation of applicable laws.
+
+### 7. Governing Law
+
+These terms are governed by and construed in accordance with the laws of Michigan and the United States of America.
+
+### 8. Contact Information
+
+If you have any questions or concerns regarding these terms, please contact us at [contact@hostathing.com](mailto:contact@hostathing.com).
+
+By using our services, you acknowledge that you have read and understood these terms and agree to be bound by them. These terms represent the entire agreement between you and Host A Thing regarding your use of our services.
 
 ## Privacy Policy
 
-**UNDER DEVELOPMENT**
+Effective Date: November 3, 2023
 
-Until these terms are complete, you SHALL NOT register an account for or use the Host A Thing Panel without first gaining special authorization from a representative of Host A Thing. 
+At Host A Thing, we are committed to protecting the privacy and personal information of our users. This Privacy Policy outlines the types of information we collect, how we use it, and the steps we take to safeguard your data. By using our services, you agree to the practices described in this Privacy Policy.
 
-## PanelBot
+### 1. Information We Collect
 
-**UNDER DEVELOPMENT**
+#### 1.1. User Registration Information
 
-Until these terms are complete, you SHALL NOT register an account for or use the Host A Thing Panel without first gaining special authorization from a representative of Host A Thing. 
+When you register for an account, we collect the following information:
+
+- Username
+- Email address
+- Password
+- Discord user ID (optional)
+- First and last name
+
+#### 1.2. Server Data
+
+We do not knowingly collect or store any personally identifiable information beyond the data mentioned above. Users are explicitly prohibited from uploading any private information to their server(s).
+
+### 2. Use of Information
+
+#### 2.1. User Registration Information
+
+We use the information you provide during registration to create and manage your account, provide you with access to our services, and communicate with you about your account and our services.
+
+#### 2.2. Discord User ID
+
+If you choose to provide your Discord user ID, it may be used to facilitate Single Sign-On (SSO) through Discord, enhancing your experience and facilitating communication and coordination within your gaming community. It is an optional field, and you can choose not to provide it.
+
+### 3. Sharing of Information
+
+We do not sell, trade, or share your personal information with third parties, except as described in this Privacy Policy.
+
+#### 3.1. Service Providers
+
+We may share your information with service providers who help us deliver our services. These service providers are bound by confidentiality agreements and only use your information to assist us in providing our services.
+
+#### 3.2. Legal Compliance
+
+We may disclose your information if required by law or to protect our rights, property, and safety, or the rights, property, and safety of others.
+
+### 4. Data Security
+
+We take appropriate measures to protect your data against unauthorized access, disclosure, alteration, and destruction. However, no data transmission over the internet or electronic storage is completely secure, and we cannot guarantee the security of your information.
+
+### 5. Changes to Privacy Policy
+
+We reserve the right to update and modify this Privacy Policy as needed. We will notify you of any changes by posting the updated Privacy Policy on our website. Your continued use of our services after any changes to this Privacy Policy signifies your acceptance of those changes.
+
+### 6. Contact Information
+
+If you have any questions or concerns regarding this Privacy Policy, please contact us at [contact@hostathing.com](mailto:contact@hostathing.com).
+
+By using our services, you acknowledge that you have read and understood this Privacy Policy and agree to the practices described within it.
