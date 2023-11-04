@@ -62,19 +62,29 @@ You agree that while using our services, you will not engage in any activities t
 
 Avatars uploaded by users should not contain inappropriate or offensive content or personal information and must not violate any applicable laws, infringe on copyrights, trademarks, or other intellectual property rights, or be otherwise objectionable.
 
-### 5. Node Hosting Security
+### 5. Service Availability
+
+#### 5.1. Service Availability
+
+We do not guarantee the availability of our services at all times. While we strive to provide reliable and uninterrupted service, there may be instances of service unavailability or disruptions. You acknowledge that temporary service interruptions may occur for reasons including maintenance, system upgrades, and unforeseen events.
+
+#### 5.2. Maintenance
+
+Routine maintenance will be performed on a weekly basis at a time disclosed by us. During maintenance, some or all services may be temporarily unavailable.
+
+### 6. Node Hosting Security
 
 If you are hosting a node, it is solely your responsibility to ensure the security of that node and your network.
 
-### 6. Termination of Services
+### 7. Termination of Services
 
 We reserve the right to terminate, suspend, or restrict your access to our services at our discretion, without notice, for any reason, including but not limited to a violation of these terms or any violation of applicable laws.
 
-### 7. Governing Law
+### 8. Governing Law
 
 These terms are governed by and construed in accordance with the laws of Michigan and the United States of America.
 
-### 8. Contact Information
+### 9. Contact Information
 
 If you have any questions or concerns regarding these terms, please contact us at [contact@hostathing.com](mailto:contact@hostathing.com).
 
