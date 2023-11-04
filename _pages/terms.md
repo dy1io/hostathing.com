@@ -58,6 +58,10 @@ You may not engage in any activities that violate our guidelines, including but 
 
 You agree that while using our services, you will not engage in any activities that are illegal under local, state, national, or international law. We do not condone or support any unlawful activities and reserve the right to report any such activities to the appropriate authorities.
 
+#### 4.4. Avatar Content
+
+Avatars uploaded by users should not contain inappropriate or offensive content or personal information.
+
 ### 5. Node Hosting Security
 
 If you are hosting a node, it is solely your responsibility to ensure the security of that node and your network.
@@ -100,7 +104,7 @@ We collect your public IP address for logging and auditing purposes. This inform
 
 #### 1.3. User Avatars
 
-Users have the option to upload avatars. The avatars are collected for the purpose of customizing your account profile and enhancing the user experience.
+Users have the option to upload avatars. The avatars are collected for the purpose of customizing your account profile and enhancing the user experience. Avatars should not contain inappropriate content or personal information.
 
 #### 1.4. Server Data
 
@@ -122,7 +126,7 @@ We collect your public IP addresses for logging and auditing purposes. This info
 
 #### 2.4. User Avatars
 
-User avatars are used to customize your account profile and enhance your user experience on our platform.
+User avatars are used to customize your account profile and enhance your user experience on our platform. Avatars should not contain inappropriate content or personal information.
 
 ### 3. Sharing of Information
 
