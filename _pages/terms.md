@@ -82,6 +82,16 @@ We appreciate your understanding of these constraints. In the event that server 
 
 By using our services, you acknowledge and accept that server space availability is contingent on the number of nodes we have and the demand within the community. While we will make our best efforts to accommodate your requests, we cannot guarantee the immediate availability of server space at all times.
 
+#### 5.3 Node Purchase Eligibility and Platform Access
+
+The purchase of a node on Host A Thing is available exclusively to members of partnered communities. It is essential to understand that the purchase of a node does not guarantee:
+
+1. Access to the Host A Thing platform.
+2. The ability to create a server on Host A Thing.
+3. Any impact on the partnership status of a user or their community.
+
+While we offer node purchase options to enhance your hosting experience, the availability of features and services on the platform is subject to other criteria, such as community guidelines, resource availability, and any additional requirements set forth by your partnered community. Node purchases are separate from partnership agreements, and they do not influence your standing as a partner within your community.
+
 ### 6. Node Hosting Security
 
 If you choose to host a node, it is solely your responsibility to ensure the security of that node and your network. Host A Thing shall not be responsible for any damages, losses, or consequences resulting from the failure to properly secure your node, including but not limited to unauthorized access, data breaches, or any other security-related issues. It is incumbent upon users to take appropriate security measures to protect their nodes and data.
@@ -90,17 +100,7 @@ If you choose to host a node, it is solely your responsibility to ensure the sec
 
 We reserve the right to terminate, suspend, or restrict your access to our services at our discretion, without notice, for any reason, including but not limited to a violation of these terms or any violation of applicable laws.
 
-### 8. Governing Law
-
-These terms are governed by and construed in accordance with the laws of Michigan and the United States of America.
-
-### 9. Limitation of Liability
-
-To the extent permitted by applicable law, Host A Thing and its affiliates shall not be liable for any direct, indirect, incidental, special, or consequential damages, or for any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (1) the use or inability to use our services; (2) any unauthorized access to or use of our servers and/or any personal information stored therein; (3) any bugs, viruses, or other harmful code that may be transmitted to or through our services; (4) any errors, inaccuracies, omissions, or other defects in the content provided through our services; or (5) any other matter relating to our services.
-
-This limitation of liability applies whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if Host A Thing has been advised of the possibility of such damages. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations or exclusions may not apply to you.
-
-### 10. Refund Policy
+### 8. Refund Policy
 
 Host A Thing offers refunds for a period of three (3) days from the date of payment for users who have requested us to host a node for them. We understand that circumstances may change, and users may wish to cancel their node hosting services within this timeframe. Refunds will be processed in accordance with the following conditions:
 
@@ -113,6 +113,24 @@ Host A Thing offers refunds for a period of three (3) days from the date of paym
 - This refund policy is subject to change at the discretion of Host A Thing.
 
 By using our services, you agree to adhere to and accept the terms of this refund policy. We reserve the right to deny refunds in cases of suspected abuse or non-compliance with these terms.
+
+
+### 9. Limitation of Liability
+
+To the extent permitted by applicable law, Host A Thing and its affiliates shall not be liable for any direct, indirect, incidental, special, or consequential damages, or for any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
+
+1. The use or inability to use our services
+2. Any unauthorized access to or use of our servers and/or any personal information stored therein
+3. Any bugs, viruses, or other harmful code that may be transmitted to or through our services
+4. Any errors, inaccuracies, omissions, or other defects in the content provided through our services
+5. Any other matter relating to our services.
+
+This limitation of liability applies whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if Host A Thing has been advised of the possibility of such damages. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations or exclusions may not apply to you.
+
+
+### 10. Governing Law
+
+These terms are governed by and construed in accordance with the laws of Michigan and the United States of America.
 
 ### 11. Contact Information
 
