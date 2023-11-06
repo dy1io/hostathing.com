@@ -70,11 +70,21 @@ We do not guarantee the availability of our services at all times. While we stri
 
 #### 5.2. Maintenance
 
-Routine maintenance will be performed on a weekly basis at a time disclosed by us. During maintenance, some or all services may be temporarily unavailable.
+Regular maintenance is essential to ensure the stability and security of our services. We will conduct maintenance as needed to enhance performance, security, and user experience. While we will make our best efforts to notify users in advance of planned maintenance, we reserve the right to perform maintenance without prior notice when necessary to maintain the integrity of our services. The timing and duration of maintenance may vary and are at the sole discretion of Host A Thing. We appreciate your understanding and cooperation in this matter.
+
+#### 5.3 Node Hosting and Server Space Availability
+
+Game servers hosted on Host A Thing are allocated on nodes. Node hosting services can be provided by Host A Thing, by the community through user-hosted nodes, or by users who choose to pay for a cloud-hosted node. Server space is limited by the number of nodes available within our infrastructure. We make every effort to accommodate user requests; however, we cannot guarantee that you will always be able to create your server.
+
+Availability of server space is subject to the capacity of our nodes, community demand, and resource allocation. We understand that our users may have specific preferences and requirements for their game servers, and while we strive to fulfill these requests, there may be instances where we cannot immediately provide server space due to resource limitations.
+
+We appreciate your understanding of these constraints. In the event that server space is not immediately available, we may work with you to find suitable alternatives or explore options to meet your hosting needs.
+
+By using our services, you acknowledge and accept that server space availability is contingent on the number of nodes we have and the demand within the community. While we will make our best efforts to accommodate your requests, we cannot guarantee the immediate availability of server space at all times.
 
 ### 6. Node Hosting Security
 
-If you are hosting a node, it is solely your responsibility to ensure the security of that node and your network.
+If you choose to host a node, it is solely your responsibility to ensure the security of that node and your network. Host A Thing shall not be responsible for any damages, losses, or consequences resulting from the failure to properly secure your node, including but not limited to unauthorized access, data breaches, or any other security-related issues. It is incumbent upon users to take appropriate security measures to protect their nodes and data.
 
 ### 7. Termination of Services
 
@@ -84,9 +94,29 @@ We reserve the right to terminate, suspend, or restrict your access to our servi
 
 These terms are governed by and construed in accordance with the laws of Michigan and the United States of America.
 
-### 9. Contact Information
+### 9. Limitation of Liability
 
-If you have any questions or concerns regarding these terms, please contact us at [contact@hostathing.com](mailto:contact@hostathing.com).
+To the extent permitted by applicable law, Host A Thing and its affiliates shall not be liable for any direct, indirect, incidental, special, or consequential damages, or for any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (1) the use or inability to use our services; (2) any unauthorized access to or use of our servers and/or any personal information stored therein; (3) any bugs, viruses, or other harmful code that may be transmitted to or through our services; (4) any errors, inaccuracies, omissions, or other defects in the content provided through our services; or (5) any other matter relating to our services.
+
+This limitation of liability applies whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if Host A Thing has been advised of the possibility of such damages. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations or exclusions may not apply to you.
+
+### 10. Refund Policy
+
+Host A Thing offers refunds for a period of three (3) days from the date of payment for users who have requested us to host a node for them. We understand that circumstances may change, and users may wish to cancel their node hosting services within this timeframe. Refunds will be processed in accordance with the following conditions:
+
+- Refunds must be requested within three (3) days of the initial payment for node hosting services.
+- To request a refund, please contact us by creating a support ticket through Discord at [https://hostathing.com/discord](https://hostathing.com/discord) or via email at [contact@hostathing.com](mailto:contact@hostathing.com).
+- Refunds may be denied if it is determined that a user is abusing the refund policy, including but not limited to multiple refund requests within a short period.
+- Refunds will be processed to the original payment method used for the transaction.
+- It may take several business days for the refund to be processed and credited to your account.
+- Please note that any additional services, fees, or third-party charges associated with the transaction are non-refundable.
+- This refund policy is subject to change at the discretion of Host A Thing.
+
+By using our services, you agree to adhere to and accept the terms of this refund policy. We reserve the right to deny refunds in cases of suspected abuse or non-compliance with these terms.
+
+### 11. Contact Information
+
+If you have any questions or concerns regarding these terms, please contact us by creating a support ticket on Discord at [https://hostathing.com/discord](https://hostathing.com/discord) or via email at [contact@hostathing.com](mailto:contact@hostathing.com).
 
 By using our services, you acknowledge that you have read and understood these terms and agree to be bound by them. These terms represent the entire agreement between you and Host A Thing regarding your use of our services.
 
