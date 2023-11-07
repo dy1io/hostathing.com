@@ -131,7 +131,15 @@ To the extent permitted by applicable law, Host A Thing and its affiliates shall
 
 This limitation of liability applies whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if Host A Thing has been advised of the possibility of such damages. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations or exclusions may not apply to you.
 
-### 10. Dispute Resolution and Legal Fees
+### 10. Disclaimer of Warranties
+
+We make no warranties, express or implied, about the availability, reliability, or suitability of our services. Use of our services is at your own risk.
+
+### 11. Indemnification
+
+You agree to indemnify, defend, and hold Host A Thing and its affiliates, partners, and employees harmless from any claims, damages, or liabilities arising from your use of our services.
+
+### 12. Dispute Resolution and Legal Fees
 
 In the event of any dispute, claim, or controversy arising out of or relating to these Terms or the use of our services, we strongly encourage you to first contact us to attempt to resolve the matter amicably. We are committed to addressing your concerns and finding a satisfactory resolution.
 
@@ -139,11 +147,11 @@ However, if you choose to initiate legal proceedings against Host A Thing, you a
 
 We believe that open communication and a cooperative approach can lead to the best outcomes for all parties involved, and we encourage you to reach out to us to address any concerns or disputes you may have.
 
-### 11. Governing Law
+### 13. Governing Law
 
 These terms are governed by and construed in accordance with the laws of Michigan and the United States of America.
 
-### 12. Contact Information
+### 14. Contact Information
 
 If you have any questions or concerns regarding these terms, please contact us by creating a support ticket on Discord at [https://hostathing.com/discord](https://hostathing.com/discord) or via email at [contact@hostathing.com](mailto:contact@hostathing.com).
 
