@@ -227,6 +227,6 @@ We reserve the right to update and modify this Privacy Policy as needed. We will
 
 ### 6. Contact Information
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us at [contact@hostathing.com](mailto:contact@hostathing.com).
+If you have any questions or concerns regarding this Privacy Policy, please contact us by creating a support ticket on Discord at [https://hostathing.com/discord](https://hostathing.com/discord) or via email at [contact@hostathing.com](mailto:contact@hostathing.com).
 
 By using our services, you acknowledge that you have read and understood this Privacy Policy and agree to the practices described within it.
