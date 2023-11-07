@@ -86,7 +86,7 @@ We appreciate your understanding of these constraints. In the event that server 
 
 By using our services, you acknowledge and accept that server space availability is contingent on the number of nodes we have and the demand within the community. While we will make our best efforts to accommodate your requests, we cannot guarantee the immediate availability of server space at all times.
 
-#### 5.3 Node Purchase Eligibility and Platform Access
+#### 5.4 Node Purchase Eligibility and Platform Access
 
 The purchase of a node on Host A Thing is available exclusively to members of partnered communities. It is essential to understand that the purchase of a node does not guarantee:
 
