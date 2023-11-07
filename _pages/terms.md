@@ -10,7 +10,7 @@ toc_icon: fas fa-fw fa-gavel
 
 Effective Date: November 3, 2023
 
-Welcome to Host A Thing, a free video game server hosting service dedicated to supporting approved and partnered gaming communities. These Terms of Service outline the rules and guidelines for using our services. By using our services, you agree to comply with and be bound by these terms. If you do not agree with any part of these terms, please do not use our services.
+Welcome to Host A Thing, a server hosting service dedicated to supporting approved and partnered gaming communities. These Terms of Service (referred to as "Terms") establish the rules and guidelines governing your use of our services. When we refer to "we," "us," or "Host A Thing," we are addressing our company, its representatives, and the services we provide. When we refer to "you," we are addressing you, the user, and member of the gaming community who utilizes our services. These Terms are essential to ensure a clear understanding of your rights and obligations when using our services. By using our services, you agree to adhere to and be bound by these Terms. If you do not agree with any part of these Terms, please do not use our services.
 
 ### 1. Acceptance of Terms
 
@@ -32,17 +32,17 @@ You must provide accurate and complete information during the registration proce
 
 Host A Thing offers free video game server hosting services for approved and partnered gaming communities. The availability and features of these services may vary and are subject to change.
 
-#### 3.2. Community Guidelines
-
-You must adhere to the community guidelines and rules established by your gaming community when using our services.
-
-#### 3.3. Server Hosting Options
+#### 3.2. Server Hosting Options
 
 Users may host game servers, websites, Discord bots, and other related services on our platform, provided that such usage does not violate copyright, trademark, or any applicable laws.
 
+#### 3.3 Other Related Services
+
+In addition to the services mentioned above, Host A Thing may also offer other related services to enhance your gaming experience and community interaction.
+
 #### 3.4. Node Hosting
 
-Communities may choose to host their nodes using their hardware or pay us to host one for them. Exclusive access to their node or game hosting on their node is not guaranteed, although we will make a best effort to do so if requested.
+Communities have the option to host their nodes using their hardware or can choose our node hosting service for added convenience. While we do our best to accommodate user requests for exclusive access to their node and game hosting, we cannot guarantee such exclusivity. We aim to provide a seamless gaming environment within the available resources, balancing user preferences with community demand.
 
 ### 4. Content and Conduct
 
@@ -54,13 +54,17 @@ You are solely responsible for any content you upload, transmit, or display on y
 
 You may not engage in any activities that violate our guidelines, including but not limited to hacking, cheating, or other disruptive behavior.
 
-#### 4.3. Compliance with Laws
+#### 4.3. Community Guidelines
 
-You agree that while using our services, you will not engage in any activities that are illegal under local, state, national, or international law. We do not condone or support any unlawful activities and reserve the right to report any such activities to the appropriate authorities.
+You must adhere to the community guidelines and rules established by your gaming community when using our services.
 
 #### 4.4. Avatar Content
 
 Avatars uploaded by users should not contain inappropriate or offensive content or personal information and must not violate any applicable laws, infringe on copyrights, trademarks, or other intellectual property rights, or be otherwise objectionable.
+
+#### 4.5. Compliance with Laws
+
+You agree that while using our services, you will not engage in any activities that are illegal under local, state, national, or international law. We do not condone or support any unlawful activities and reserve the right to report any such activities to the appropriate authorities.
 
 ### 5. Service Availability
 
@@ -74,7 +78,7 @@ Regular maintenance is essential to ensure the stability and security of our ser
 
 #### 5.3 Node Hosting and Server Space Availability
 
-Game servers hosted on Host A Thing are allocated on nodes. Node hosting services can be provided by Host A Thing, by the community through user-hosted nodes, or by users who choose to pay for a cloud-hosted node. Server space is limited by the number of nodes available within our infrastructure. We make every effort to accommodate user requests; however, we cannot guarantee that you will always be able to create your server.
+Game servers hosted on Host A Thing are allocated on nodes. Node hosting services can be provided by Host A Thing, by the community through user-hosted nodes, or by users who choose to pay for a hosted node maintained by us. Server space is limited by the number of nodes available within our infrastructure. We make every effort to accommodate user requests; however, we cannot guarantee that you will always be able to create your server.
 
 Availability of server space is subject to the capacity of our nodes, community demand, and resource allocation. We understand that our users may have specific preferences and requirements for their game servers, and while we strive to fulfill these requests, there may be instances where we cannot immediately provide server space due to resource limitations.
 
@@ -127,12 +131,19 @@ To the extent permitted by applicable law, Host A Thing and its affiliates shall
 
 This limitation of liability applies whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if Host A Thing has been advised of the possibility of such damages. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations or exclusions may not apply to you.
 
+10. Dispute Resolution and Legal Fees
 
-### 10. Governing Law
+In the event of any dispute, claim, or controversy arising out of or relating to these Terms or the use of our services, we strongly encourage you to first contact us to attempt to resolve the matter amicably. We are committed to addressing your concerns and finding a satisfactory resolution.
+
+However, if you choose to initiate legal proceedings against Host A Thing, you agree to bear the responsibility for all legal fees and associated costs, including attorney's fees, court costs, and any other expenses incurred during the dispute resolution process.
+
+We believe that open communication and a cooperative approach can lead to the best outcomes for all parties involved, and we encourage you to reach out to us to address any concerns or disputes you may have.
+
+### 11. Governing Law
 
 These terms are governed by and construed in accordance with the laws of Michigan and the United States of America.
 
-### 11. Contact Information
+### 12. Contact Information
 
 If you have any questions or concerns regarding these terms, please contact us by creating a support ticket on Discord at [https://hostathing.com/discord](https://hostathing.com/discord) or via email at [contact@hostathing.com](mailto:contact@hostathing.com).
 
