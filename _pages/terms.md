@@ -66,7 +66,7 @@ Avatars uploaded by users should not contain inappropriate or offensive content 
 
 You agree that while using our services, you will not engage in any activities that are illegal under local, state, national, or international law. We do not condone or support any unlawful activities and reserve the right to report any such activities to the appropriate authorities.
 
-### 5. Service Availability, Eligability, and Maintenance
+### 5. Service Availability, Eligibility, and Maintenance
 
 #### 5.1. Availability of Services
 
