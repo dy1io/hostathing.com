@@ -131,7 +131,7 @@ To the extent permitted by applicable law, Host A Thing and its affiliates shall
 
 This limitation of liability applies whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if Host A Thing has been advised of the possibility of such damages. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations or exclusions may not apply to you.
 
-10. Dispute Resolution and Legal Fees
+### 10. Dispute Resolution and Legal Fees
 
 In the event of any dispute, claim, or controversy arising out of or relating to these Terms or the use of our services, we strongly encourage you to first contact us to attempt to resolve the matter amicably. We are committed to addressing your concerns and finding a satisfactory resolution.
 
