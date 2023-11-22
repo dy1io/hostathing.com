@@ -114,9 +114,9 @@ footer:
     - label: "System Status"
       icon: "fas fa-fw fa-chart-area"
       url: "https://status.hostathing.com"
-    - label: "Terms & Privacy Policy"
-      icon: "fas fa-fw fa-file-alt"
-      url: "https://hostathing.com/terms"
+    - label: "Legal"
+      icon: "fas fa-fw fa-file-contract"
+      url: "/legal/"
 atom_feed:
   hide: true
 
