@@ -115,7 +115,7 @@ footer:
       icon: "fas fa-fw fa-chart-area"
       url: "https://status.hostathing.com"
     - label: "Legal"
-      icon: "fas fa-fw fa-file-contract"
+      icon: "fas fa-fw fa-balance-scale"
       url: "/legal/"
 atom_feed:
   hide: true

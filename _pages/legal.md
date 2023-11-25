@@ -3,7 +3,7 @@ title: Legal
 permalink: /legal/
 toc: true
 toc_label: "Legal Contents"
-toc_icon: fas fa-fw fa-balance-scale
+toc_icon: "fas fa-fw fa-file-contract"
 ---
 
 ## Terms of Service
